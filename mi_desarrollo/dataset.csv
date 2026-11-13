@@ -1,0 +1,86 @@
+texto,intencion
+dale para adelante,MOVER
+andá dos metros y medio,MOVER
+seguí derecho hasta la pared,MOVER
+movete un metro,MOVER
+caminá tres metros,MOVER
+avanzá despacito por favor,MOVER
+vení para acá,MOVER
+retrocedé medio metro,MOVER
+dá unos pasos hacia atrás,MOVER
+desplazate 1.2 metros,MOVER
+arrancá a caminar,MOVER
+metele para adelante un toque,MOVER
+avanzá a 0.15 m/s,MOVER
+andá hacia adelante 4 metros,MOVER
+movete para atrás,MOVER
+caminá un poquito más,MOVER
+seguí avanzando,MOVER
+marchá hacia adelante,MOVER
+date media vuelta,GIRAR
+girá para la derecha,GIRAR
+rotá 30 grados,GIRAR
+dale una vuelta,GIRAR
+girá un cuarto de vuelta,GIRAR
+volteate para la izquierda,GIRAR
+giro de 60 grados a la izquierda,GIRAR
+girá 120 grados,GIRAR
+rotá hacia la derecha despacio,GIRAR
+girate para acá,GIRAR
+hacé un giro de 15 grados,GIRAR
+girá al revés,GIRAR
+rotá media vuelta a la izquierda,GIRAR
+girá 10 grados nomás,GIRAR
+dale para la izquierda girando,GIRAR
+frená ahí,DETENERSE
+detenete un segundo,DETENERSE
+quieto,DETENERSE
+pará,DETENERSE
+basta,DETENERSE
+alto ahí,DETENERSE
+no te muevas,DETENERSE
+dejá de caminar,DETENERSE
+frenate ya mismo,DETENERSE
+detené la marcha,DETENERSE
+stop,DETENERSE
+no sigas,DETENERSE
+parate ya,DETENERSE
+hacele hola a la clase,SALUDO
+saludá al público,SALUDO
+saludá con la mano,SALUDO
+hacé un saludo a los profesores,SALUDO
+decile hola a los chicos,SALUDO
+saludalos,SALUDO
+mandale un saludo a la comisión,SALUDO
+hacé el saludo de siempre,SALUDO
+saludá que te están filmando,SALUDO
+tirale un saludo al público,SALUDO
+saludá antes de empezar,SALUDO
+hacele hola con la mano derecha,SALUDO
+cuánta batería te queda,CONSULTAR_ESTADO
+decime tu estado,CONSULTAR_ESTADO
+en qué nivel de carga estás,CONSULTAR_ESTADO
+mostrame el status,CONSULTAR_ESTADO
+cómo venís de batería,CONSULTAR_ESTADO
+qué nivel tenés,CONSULTAR_ESTADO
+pasame la telemetría,CONSULTAR_ESTADO
+todo bien con la carga,CONSULTAR_ESTADO
+cómo andás,CONSULTAR_ESTADO
+informe de estado,CONSULTAR_ESTADO
+tenés batería suficiente,CONSULTAR_ESTADO
+decime cómo estás de energía,CONSULTAR_ESTADO
+cuál es tu estado actual,CONSULTAR_ESTADO
+qué hora es,DESCONOCIDO
+contame un chiste,DESCONOCIDO
+cómo te llamás,DESCONOCIDO
+quién te programó,DESCONOCIDO
+hola qué tal,DESCONOCIDO
+te gusta el fútbol,DESCONOCIDO
+prepará un café,DESCONOCIDO
+abrí la puerta,DESCONOCIDO
+cantá una canción,DESCONOCIDO
+dónde queda la facultad,DESCONOCIDO
+buenas tardes cómo va todo,DESCONOCIDO
+explicame qué es un agente inteligente,DESCONOCIDO
+apagá la luz,DESCONOCIDO
+mandame un mail,DESCONOCIDO

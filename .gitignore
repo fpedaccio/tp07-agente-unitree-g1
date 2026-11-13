@@ -1,0 +1,20 @@
+# Este repo publica SOLO mi trabajo del TP07.
+#
+# El scaffold de la catedra (simulador Unitree, evaluador, ejecutor, casos de
+# prueba) NO se republica: es codigo de terceros y vive en su propio repo.
+#   https://github.com/tsamaan/UadeRobotLab
+#
+# Por eso se ignora todo y se habilitan a mano mis archivos.
+*
+
+!.gitignore
+!README.md
+!REPORTE_ACCURACY.md
+!ANALISIS_FALLOS.md
+!INFORME_TECNICO.md
+
+!mi_desarrollo/
+mi_desarrollo/*
+!mi_desarrollo/tp07_pedaccio_facundo.py
+!mi_desarrollo/comparar_ml.py
+!mi_desarrollo/dataset.csv
